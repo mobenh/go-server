@@ -23,6 +23,7 @@ go mod init github.com/mobenh/go-server
 go build
 go run main.go
 ```
-* type localhost:8080/ to view static website
-* type localhost:8080/hello to view "hello!" statement
-* type localhost:8080/form.html to fill form and see output
+* type in your browser:
+  * localhost:8080/ to view static website
+  * localhost:8080/hello to view "hello!" statement
+  * localhost:8080/form.html to fill form and see output
