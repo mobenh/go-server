@@ -24,6 +24,8 @@ go build
 go run main.go
 ```
 * type in your browser:
-  * localhost:8080/ (to view static website)
-  * localhost:8080/hello (to view "hello!" statement)
-  * localhost:8080/form.html (to fill form and see output)
+```
+localhost:8080/            (to view static website)
+localhost:8080/hello       (to view "hello!" statement)
+localhost:8080/form.html   (to fill form and see output)
+```
